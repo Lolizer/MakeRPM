@@ -5,7 +5,7 @@ C program is built with Make and inserted into a custom rpm package.
 
 Исходный код C программы - [main.c](https://github.com/Lolizer/MakeRPM/blob/master/main.c).
 
-Makefile - [Makefile](https://github.com/Lolizer/MakeRPM/blob/master/Makefile).
+Makefile - [Makefile](https://github.com/Lolizer/MakeRPM/blob/master/Makefile).  
 Переменная DEST определяет будущее положение исполняемого файла в системе пользователя rpm пакета.
 
 Файл spec - [Spec](https://github.com/Lolizer/MakeRPM/tree/master/SPECS).
