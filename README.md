@@ -14,3 +14,5 @@ Makefile - [Makefile](https://github.com/Lolizer/MakeRPM/blob/master/Makefile).
 mkrpmenv.sh - Инициализация каталога rpmbuild
 create_tar.sh - Подготовка ресурсной иерархии файлов в формате tar.gz.
 create_specs.sh - Генерирование файла спецификации для сборки rpm пакета.
+
+П.С. После установки rpm пакета, исполняемый файл можно вызвать из любой папки по статически заданному названию task. 
