@@ -10,7 +10,7 @@ Makefile - [Makefile](https://github.com/Lolizer/MakeRPM/blob/master/Makefile).
 
 Файл spec - [Spec](https://github.com/Lolizer/MakeRPM/tree/master/SPECS).
 
-Вспомогательные скрипты:
+Вспомогательные скрипты:  
 mkrpmenv.sh - Инициализация каталога rpmbuild  
 create_tar.sh - Подготовка ресурсной иерархии файлов в формате tar.gz.  
 create_specs.sh - Генерирование файла спецификации для сборки rpm пакета.  
